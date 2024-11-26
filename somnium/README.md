@@ -1,6 +1,6 @@
 # Somnium.
 
-Latin - Plain Text  
+[Latin - Plain Text](full-text-latin.md)  
 Latin - PDF | Biolinum | Kerkis | Auriocus  
 English - Plain Text  
 English - PDF  
