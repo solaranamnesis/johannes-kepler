@@ -1,30 +1,36 @@
 # Plutarchi Philosophi Chaeronensis Libellus de Facie, quæ in Orbe Lunæ Apparet;
 
-E Græco lacunis plurimis deformato, Latinè redditus, annotatis ad marginem lectionibus, interpretis judicio emendatioribus, et plerisque in lacunis suppletus, conjecturis ex materia et circumstantijs Personarum loquentium ductis; passim etiam Notis illustratus. Estque lacunarum, quas codices hiatibus indicant, impletionis signum [ ]: quas verò conjectura sola arguebat, eæ scriptura diversa curatæ sunt
+### E Græco lacunis plurimis deformato, Latinè redditus, annotatis ad marginem lectionibus, interpretis judicio emendatioribus, et plerisque in lacunis suppletus, conjecturis ex materia et circumstantijs Personarum loquentium ductis; passim etiam Notis illustratus. Estque lacunarum, quas codices hiatibus indicant, impletionis signum [ ]: quas verò conjectura sola arguebat, eæ scriptura diversa curatæ sunt
 
-à Joanne Kepplero Mathematico.
+## à Joanne Kepplero Mathematico.
+
+---
+
+---
 
 Nitium libelli deest. Apparet autem ex contextu; initium esse factum à promissione fabu læ de Dæmonibus Luaribus. quam S Y L L A E tribuit Plutarchus. Ei verò Plutarchus interlocutus, varias dixit esse Philosophorum opiniones de Lunæ maculis, quæsivitq́; ex Sylla, num placeat illas prius examinari. Notentur igitur Personæ, [98] quas introducit Plutarchus et quam quisque sectam profiteatur, quamve opinionem de maculis Lunæ defendat.
 
-1. SYLLA, Fabulam dicturus est.
+1\. SYLLA, Fabulam dicturus est.
 
-2. PLVTARCHVS, est qui loquitur in persona prima, quique aliarum Personarum sermones commemorat. lpse defendit, maculas non esse emphasin, non maris effigiem, sed esse maria, aut valles vmbrosas, inter montes abditas.
+2\. PLVTARCHVS, est qui loquitur in persona prima, quique aliarum Personarum sermones commemorat. lpse defendit, maculas non esse emphasin, non maris effigiem, sed esse maria, aut valles vmbrosas, inter montes abditas.
 
-3. CLEARCHVS, Peripateticus, defendit, Maculas esse imaginem nostri maris. Absens à colloquio allegatur.
+3\. CLEARCHVS, Peripateticus, defendit, Maculas esse imaginem nostri maris. Absens à colloquio allegatur.
 
-4. ARISTOTELES, Petipateticus, Plutarchi coætaneus.
+4\. ARISTOTELES, Petipateticus, Plutarchi coætaneus.
 
-5. APOLLONIDES, Geometra, Geographus, Astronomus.
+5\. APOLLONIDES, Geometra, Geographus, Astronomus.
 
-6. LAMPRIAS, Mathematicus. 7. HIPPARCHVS, Opticus.
+6\. LAMPRIAS, Mathematicus.
+
+7\. HIPPARCHVS, Opticus.
 
 LVCIVS, Lunam esse terream, non igneam,
 
-9. PHARNACES, Stoicus, Lunam esse igneam.
+9\. PHARNACES, Stoicus, Lunam esse igneam.
 
-10. THEON, Ægyptius, Aristarchi lector et discipulus: eidemq́; tribuitur, quòd ex Pòetis varijs testimonia colligere soleat, de tenebris diurnis. Astronomus igitur et Grammaticus est. Negat Lunam habitabilem esse. Commentatus est in Alemania.
+10\. THEON, Ægyptius, Aristarchi lector et discipulus: eidemq́; tribuitur, quòd ex Pòetis varijs testimonia colligere soleat, de tenebris diurnis. Astronomus igitur et Grammaticus est. Negat Lunam habitabilem esse. Commentatus est in Alemania.
 
-11. MENELAVS, Mathematicus.
+11\. MENELAVS, Mathematicus.
 
 Eorum igitur, quæ supersunt, initium hoc est, Plutarchi de colloquio habito narrantis, verba.
 
@@ -32,17 +38,11 @@ Numeri marginales, sunt facierum in exemplari Græco Wecheliano in octavâ.
 
 1696
 
-
-
 Plutarchus.
-
-
 
 b has opiniones.
 
 c Fabulas.
-
-
 
 1697 E
 
@@ -54,11 +54,7 @@ Et cur id non faceremus, inquam ego, cùm à difficultatibus,' quæ circa hæcb 
 
 Maculas Lunæ non effingi à visu, propter aliquam ejus affectionem.
 
-
-
-1. Quia nilhil tale in Sole sibi visus imaginetur.
-
-
+1\. Quia nilhil tale in Sole sibi visus imaginetur.
 
 Οξυβελὴς, ἥδε άυς ίλάειρος.
 
@@ -72,13 +68,11 @@ sic enim appellavit illam pellaciam et lenitudinem inoffensam Iuminis Lunæ.
 
 Deindè et rationem reddit author huius opinionis, ob quam, qui sunt visue hebeti et imbecilli, nullam figuræ diversitatem in Lunâ conspiciant, sed levcis et plenus vndi luminis, illis sese offerat hujus Orbis; qui verò acutè vident. etf fortem eam facultatem sortiti sunt, distincùs illam intueantur, et species in disco ejus effigiatas discernant, et sic discrimina partiū evidentiùs assequantur.g Oportebat autem contrà, nisi fallor, siquidem [imbecillitas à splendore] victi oculi talem imaginationem efficere [oportebat inquam] in patiente imbecilliore potiùs esse hanc apparentiam.
 
-2. Quia potissimùm visu forti.
-
-
+2\. Quia potissimùm visu forti.
 
 e f. Nota opposita epitheta ἄμυδρον et σφοδογν.g Plutarchus contentus fuit, agumentum ex hac particula opinionis, cur diversis visibus accidant diversa, retorquere in totam opinionem: causam hujus diversitatis ipse hic non explicat, quia intempestivum erat futurum. Eam nos addamus ex veris rationibus Opticis. Maculæ istæ lunares sunt reale quid pingunt enim se ipsæ per suas radiationes in papyro alba, non tantùm si per vitra convexa transeant, et ad certæ distantiæ punctum concurrant; sed etiā, si per foramen exiguum planè vacuum transeant, [100] inq́; tabellam albam eminùs incidant. Quòd igitur illæ non discenuntur à visu quocunque; in causa non est, facultatis imbecillitas, quam Plutarchi vox ἄμυδραν insinuat; sed vitium instrumenti visorij, id est, situs improportionatus fundi retiformis tunicæ, ad quantitatem refractionis, factæ in humore crystallino. Cùm enim quælibet quantitas refractionis hujus, proprium habeat punctum post crystallinum, ad quod colligat radios in cystallino refractos, propriam sc. ejus à crystallino distantiam, eamq́; aliam propinqua oculo designent, aliam remota: fit vt fundus retinæ aberret ab hoc puncto. Si aberrat à puncto, secat igitur conum radiorum collectorum vnius puncti lucentis, secat, inquam, eum vel ante punctum, vel post punctum concursûs, vbi jam iterim dilatatur Conus. Hoc vero pacto, quod erat foris in re visibili punctum vnicum, fit in retiformi non punctum, sed superficies Vicinum igitur punctum rei visibilis, pingit se per aliam talem sectionem in pariculâ retiformis jam occupatâ à priori sectione: et sic vicinorum horum punctorum picturæ in retinæ fundo se mutuò permeant ex potiori parte. Sed quia vnum rei visæ punctum est in parte lucida, alterum in parte maculosa: illius pictura in retiformi est evidentior, et plus movet visum, superatq́; pemixtam sibi picturam puncti maculosi: quia lumen est efficacius coloribus in movendo visu. Ita fit denique vt macularum pictura in retina extinguatur, maneatq́; sola luminosarum partium, obtinens totam retinam. Hanc causam esse verissimam, patet ex perspicillorum usu: nam illa applicata oculo, corrigunt refractionis quantitatem; vt radij, et per perspicilla, et per humorem cystallinum juncta descendentes, aliud punctum concursus siu sortiantur, in ipso sc. Retiformis pariete, fiatq́; distincta, hoc est, punctalis pictura punctorum rei visæ Si causa fuisset in intimæ facultatis visoriæ imbecillitate; perspicillum illam solo situ extraneo non posset momentanecè fortificare, sic vt eo rejecto, oculus statim relaberetur ad pristinam suæ facultatis visoriæ imbecillitatem. Est et alia comprobatio hujus causæ Opticæ, petita ex hoc experimento, quòd ijdem, qui non vident maculas in Lunâ visu simplici, non vident etiam alia obscura, propter candida apposita; nec citò agnoscunt facies hominum cum collaribus densis è Syndone candidâ: quia nimi[101] nimirùm idem facit color candidus circa faciem non candidam, quod in Luna, lumen circa maculas. Quemadmodum igitur facies fusca, propter hoc visus accidens, non ideò est mera apparentia, sed omninò reale quid; sic etiam maculæ Lunæ per se sunt aliquid, etsi à visu imbecilli non videntur. Sed revertamur ad contextum.
 
-3. Quia non in toto Lunæ disco. Planè verò redarguit hanc rationem inequalitas. Non enim in vmbrâ continatâ per totum Lunæ discum, et confusâ cum eius lumine, visus [hic occupatur] sed vt non ineptè subdens Agesianax dixit:
+3\. Quia non in toto Lunæ disco. Planè verò redarguit hanc rationem inequalitas. Non enim in vmbrâ continatâ per totum Lunæ discum, et confusâ cum eius lumine, visus [hic occupatur] sed vt non ineptè subdens Agesianax dixit:
 
 Κȣ́ρης
 
