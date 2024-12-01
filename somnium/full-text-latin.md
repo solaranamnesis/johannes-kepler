@@ -14,9 +14,9 @@
 
 ---
 
-# [Somnium, sivè Astronomia Lunaris.]()
+# [Somnium, sivè Astronomia Lunaris.](#somnium-sivè-astronomia-lunaris-1)
 
-# [Notæ, successivè scriptæ inter annos 1620. 1630.]()
+# [Notæ, successivè scriptæ inter annos 1620. 1630.](#notæ-successivè-scriptæ-inter-annos-1620-1630-1)
 
 ---
 
