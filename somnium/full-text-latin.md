@@ -222,79 +222,76 @@ Vitam concedunt, ante sed excerebrant.
 
 8\. Fallor an author Satyræ procacis, cui nomen Conclave Ignatianum, exemplar nactus erat hujus opusculi; pungit enim me nominatim etiam in ipso principio. Nam in progressu miserum Copernicum adducit ad Plutonis tribunal, ad quod, ni fallor, aditus est per Heclæ voragines. 3. 5. 8. 9. Vos amici, qui notitiam habetis rerum mearum, et quæ mihi causa fuerit peregrinationis proximæ in Sueviam, præsertim, si qui vestrum antehac manuscriptum nacti fuerunt, libellum istum, ominosa ista mihi meisq́ue fuisse censebitis. Nec ego dissentio. Magnum equidem est mortis omen in vulnere lethali inflicto, in veneno epoto: nec minus fuisse videtur cladis domesticæ, in propalatione hujus scripti. Credideris scintillam delapsam in materiam aridam: hoc est, exceptas voces istas ab animis intus furvis, furva omnia suspicantibus. Primum quidem exemplar Praga Lipsiam, inde Tubingam perlatum est anno 1611. à Barone à Volckerstorff, ejusq́ue morum et studiorum Magistris. Quantùm abest, ut credatis, in Tonstrinis, (præsertim si quibus est ab occupatione Fiolxhildis meæ nomen ominosum) in his igitur, confabulatum fuisse de hac mea fabula? Certè equidem ex illa ipsa urbe et domo enati sunt sermones de me ipso calumniosi proximè succedentibus annis: qui excepti ab animis insensis, tandem exarserunt in famam, imperitiâ et superstitione sufflantibus. Nisi fallor, sic censebitis potuisse et domum meam carere vexatione sexennali, et me peregrinatione annali proxima, nisi sominiata præcepta Fiolxhildis hjus violassem. Placuit igitur milhi, somnium hoc meum ulcisci de negocio exhibito, vulgatione libelli: adversarijs aliud mercedis erit.
 
-9\. Heclæ, montis ignivomi, nota est historia ex Mappis et libris Geographicis. In genere supplicij, respexi ad fabulam, ut existimo, Empedoclis illius, apud Diogenem Lærtium, qui cum Aethnam mōtem ascendisset, et divinis post obitum potiretur honoribus, in ipsos se Crateras demisisse, seq́ue flamis immolasse vivuus singitur; qui fortassis causas æterni quæsiturus incendij, cæcaq́ue temeritate progressus eo, vnde regredi non poterat, fatiscente sub vestigijs cinerum incrustata superficie, serâ pœnitudine curiositatis, nec vllâ famæ hiujus curâ, lugentem invitus dimisit animam. Nam assine fatum C. Plinio fuit, qui Vesuviani clade incendij per infestos cinerum et pumicum imbres philosophandi causi Pompejanum invectus, sulphureo fœtore et [33] cineribus oppletis spiraculis suffocats est. Sic Homerus ænigmate Piscatorum, Aristoteles Euripi reciprocationibus excruciati vitam in vidas abjecisse fabulosis narrationibus feruntur. Ita plerique amorem in se scientiæ vlciscuntur paupertate, et odijs ignorantum divitum provocatis.
+9\. Heclæ, montis ignivomi, nota est historia ex Mappis et libris Geographicis. In genere supplicij, respexi ad fabulam, ut existimo, Empedoclis illius, apud Diogenem Laertium, qui cùm Aethnam montem ascendisset, ut divinis post obitum potiretur honoribus, in ipsos se Crateras demisisse, seq́ue flammis immolasse vivuus fingitur; qui fortassis causas æterni quæsiturus incendij, cæcaq́ue temeritate progressus eò, unde regredi non poterat; fatiscente sub vestigijs cinerum incrustata superficie; serâ pœnitudine curiositatis, nec ullâ famæ hujus curâ, lugentem invitus dimisit animam. Nam affine fatum C. Plinio fuit, qui Vesuviani clade incendij per infestos cinerum et pumicum imbres philosophandi causâ Pompejanum invectus, sulphureo fœtore et cineribus oppletis spiraculis suffocats est. Sic Homerus ænigmate Piscatorum, Aristoteles Euripi reciprocationibus excruciati vitam in undas abjecisse fabulosis narrationibus feruntur. Ita plerique amorem in se scientiæ ulciscuntur paupertate, et odijs ignorantum divitum provocatis.
 
-10\. Allusi ad mores barbaros idiotarum. Si etiam scientiæ matrem des, quam ego suprâ dixi, ignorantiam, Rationem verò patrem: equidem hunc patrem ab illa matre vel ignorari, vel celari par est.
+10\. Allusi ad mores barbaros idiotarum. Si etiam scientiæ matrem des, quam ego suprâ dixi, ignorantiam; Rationem verò patrem: equidem hunc patrem ab illa matre vel ignorari, vel celari par est.
 
-11\. In historica descriptione Scotiæ et Orcadum, authore Buchanano, mentio fit piscatoris, qui cùm esset annorum 150, ex juvencula vxore pater sit factus aliquot liberorum.
+11\. In historica descriptione Scotiæ et Orcadum, authore Buchanano, mentio fit piscatoris, qui cùm esset annorum 150, ex juvencula uxore pater sit factus aliquot liberorum.
 
-12\. Quia supernis nives et confragosa, in summo ignes è subterraneis, ut testantur historiæ.
+12\. Quia superius nives et confragosa, in summo ignes è subterraneis, ut testantur historiæ.
 
 13\. Quia Islandia sub Polari circulo est sita. Sic audivi etiam à Tychone Brahe, qui hæc ex relatu recensuit Episcopi Islandici.
 
 14\. Medicinæ et Astronomiæ studia cognata, ex eodem fonte, desiderio cognitionis rerum Naturalium. Herbariæ verò Empiricæ plerunque sunt annexæ superstitiones.
 
-15\. Trita est hæc traditio, verm an falsa, in Geographicis, Gubernatores navium ex Islandia navigantes, Ventorum quem velint, aperto Venti vtre excire: quod si quis ad Rosæ nauticæ Rhombos, indicu lumque magneticum, et rectionem gubernaculi transferat, is vera propemodum dixerit. Cùm enim 32. venti censeantur, quocunque ex 16 vnius Hemisphærij flante, si gubernatoria peritia accesserit, indicio rosæ et remigio gubernaculi navis impelletur destinato ejus Hemisphærij itinere: ventos vero contrarij Hemisphærij dispaciando ad latera rursum prorsumque, quod appellant Lavare, tantisper eludunt, dum ij in corum contrarij Hemisphærij vnum commutentur.
+15\. Trita est hæc traditio, vera an falsa, in Geographicis, Gubernatores navium ex Islandia navigantes, Ventorum quem velint, aperto Venti utre excire: quod si quis ad Rosæ nauticæ Rhombos, indicu lumq́ue magneticum, et rectionem gubernaculi transferat, is vera propemodum dixerit. Cùm enim 32. venti censeantur; quocunque ex 16 unius Hemisphærij flante, si gubernatoria peritia accesserit, indicio rosæ et remigio gubernaculi navis impelletur destinato ejus Hemisphærij itinere: ventos verò contrarij Hemisphærij dispaciando ad latera rursum prorsumq́ue, quod appellant _Lavare_, tantisper eludunt, dum ij in eorum contrarij Hemisphærij unum commutentur.
 
-16\. Ita referebat Episcopus Islandicus Tychoni Braheo. Virgines Islandicas inter audiendum in Templo Verbum Dei, solere dicta aut voces nonnullas exceptas acu et filis coloratis admirabili celeritate in linteis exprimerenendo.
+16\. Ita referebat Episcopus Islandicus Tychoni Braheo, Virgines Islandicas inter audiendum in Templo Verbum Dei, solere dicta aut voces nonnullas exceptas acu et filis coloratis admirabili celeritate in linteis exprimerenendo.
 
-17\. Scotiâ et Orcadibus superiori Oceani præteritis.
+17\. Scotiâ et Orcadibus superiori Oceano præteritis.
 
-18\. Scilicet hic sacculo caruit, ut Boreæ injurias effugere, Nordvvegiam destinatam attingere non posset.
+18\. Scilicet hic sacculo caruit, ut Boreæ injurias effugere, Nordwegiam destinatam attingere non posset.
 
 19\. Ex relatu Tychonis, ut suprà N. 13.
 
-20\. De Rangiferis, cervorum Septentrionalium genere, scribit ad Landgravium Hassiæ Tycho Braheus, eos non durare in Dania, quòd illa quantumvis frigida regio, multo tamen sit tepidior Boddiâ, Finnoniâ, Lappiâ, vbi nascitur hioc animal. Islandiæ igitur, quæ et ipsa sub Arctico Polari sita, eandem frigoris magnitudinem tribuere consentaneum est.
+20\. De Rangiferis, cervorum Septentrionalium genere, scribit ad Landgravium Hassiæ Tycho Braheus, eos non durare in Dania, quòd illa quantumvis frigida regio, multò tamen sit tepidior Boddiâ, Finnoniâ, Lappiâ, ubi nascitur hoc animal. Islandiæ igitur, quæ et ipsa sub Arctico Polari sita, eandem frigoris magnitudinem tribuere consentaneum est.
 
-21\. Nullos habet incolas illa insula, quippe stevilis et saxosa, nec ampla præter piscatores ad 40.
+21\. Nullos habet incolas illa insula, quippe sterilis et saxosa, nec ampla præter piscatores ad 40.
 
 22\. Hic viti verè philosophici mos fuit perpetuus, percontari, discere, magni facere narrationes hujusmodi, crebrò ruminare, ad theoremata physica applicare.
 
-23\. Idem quidem Teutonismus, diversissimæ verò ejus dialecti in Dania, inq́ue Islandia, quæ, ut apparet, Nordvvegiorum est colonia: ad quos ejus et vicinæ Gronlandiæ Imperium ante centum annos pertinuit. Quin etiam Orcadas ipsas Teutonum mores et linguam obtinuisse ante 200 annos, ex narrationibus cujusdam mercatoris Veneti naufragi constat.
+23\. Idem quidem Teutonismus, diversissimæ verò ejus dialecti in Dania, inq́ue Islandia, quæ, ut apparet, Nordwegiorum est colonia: ad quos ejus et vicinæ Gronlandiæ Imperium ante centum annos pertinuit. Quin etiam Orcadas ipsas Teutonum mores et linguam obtinuisse ante 200 annos, ex narrationibus cujusdam mercatoris Veneti naufragi constat.
 
-24\. Rarò infra decem, nonnunquam ad triginta: quos exercere solitus est tractatione instrumentorum variorum, ad observationes siderum; descriptionibus, computationibus, Pyronomicis laboribus,& similibus Philosophiæ studijs.
+24\. Rarò infrà decem, nonnunquam ad triginta: quos exercere solitus est tractatione instrumentorum variorum, ad observationes siderum; descriptionibus, computationibus, Pyronomicis laboribus, et similibus Philosophiæ studijs.
 
-25\. Opum suarum, quæ magnæ ei erant ex hæreditate, dominus erat, largusq́ue in studia dispensator: victor insuper omnis tædij, rerumq́ue vulgo desperatarum affectator indefessus: quod observandi ratio accuratissima demonstrat; in qua cum ipsa Natura visus humani pugnavit, vicitq́ue.
+25\. Opum suarum, quæ magnæ ei erant ex hæreditate, dominus erat, largusq́ue in studia dispensator: victor insuper omnis tædij, rerumq́ue vulgò desperatarum affectator indefessus: quod observandi ratio accuratissima demonstrat; in qua cum ipsa Natura visus humani pugnavit, vicitq́ue.
 
-26\. Fuit hæc inter delectationes ejus viri vna, ut nonnunquam abituros ex insula, jamq́ue dimissos, percelleret inopinàtâ repulsâ apud cymbarios, teneretq́ue vltra quàm vellent, nisi quis volare didicisset.
+26\. Fuit hæc inter delectationes ejus viri una, ut nonnunquam abituros ex insula, jamq́ue dimissos, percelleret inopinatâ repulsâ apud cymbarios, teneretq́ue ultrà quàm vellent; nisi quis volare didicisset.
 
-27\. Rarò infra decem, nonnunquam ad triginta: quos exercere solitus est tractatione instrumentorum variorum, ad observationes siderum; descriptionibus, computationibus, Pyronomicis laboribus,& similibus Philosophiæ studijs.
+27\.
 
-28\. Versabar tunc in lectione Operis Martini Delrio de disquisitionibus magicis. Et notus ex Virgilio versus:
-
-Carmina vel cœlo possunt deducere Lunam.
-
-Ante omnia quadrabat plaga cœli: Nam in Islandia sæpè Luna, cæteris populis plena, non apparet: Et Septentrionalibus populis magiam familiarem tradunt scriptores, et credibile est spiritius illos tenebrarum [35] insidiari longis illis noctibus: est verò et Islandia in Septentriones profundè recondita. Nimirum et Philosophiæ sunt amica sublustris lucis ocia, noctesque continuatæ. Confirmat Illustrissimus VVirtēbergiæ Dux Iulius Fridericus, qui peregrinatione memorabili Septentrionen quoque pervagatus, viros ait passim in eo reperiti ad miraculū doctos, et Philosophiam inusitatâ nobis humanitate erga advenas reddentes.
+28\. Versabar tunc in lectione Operis Martini Delrio de disquisitionibus magicis. Et notus ex Virgilio versus:  
+Carmina vel cœlo possunt deducere Lunam.  
+Ante omnia quadrabat plaga cœli: Nam in Islandia sæpè Luna, cæteris populis plena, non apparet: Et Septentrionalibus populis magiam familiarem tradunt scriptores, et credibile est spiritius illos tenebrarum insidiari longis illis noctibus: est verò et Islandia in Septentriones profundè recondita. Nimirum et Philosophiæ sunt amica sublustris lucis ocia, noctesq́ue continuatæ. Confirmat Illustrissimus Wirtembergiæ Dux Julius Fridericus, qui peregrinatione memorabili Septentrionem quoque pervagatus, viros ait passim in eo reperiri ad miraculum doctos, et Philosophiam inusitatâ nobis humanitate erga advenas reddentes.
 
 29\. Hoc tempus anni commodissimum navigationi ex Portu illo regni Daniæ in Islandiam sum ratus.
 
-30\. Id sequitur ex Num.13. per doctrinam sphæricam.
+30\. Id sequitur ex Num. 13. per doctrinam sphæricam.
 
 31\. Redi ad Notam 28.
 
-32\. Iudicibus lites, aurigæ somia currus,
-
-Quasque die quæris, nocte potiris opum.
+32\. Judicibus lites, aurigæ somnia currus,
+Quasq́ue die quæris, nocte potiris opum.
 
 33\. Perquam ingeniosos Islandos affirmavit Tychoni Brahe supradictus Episcopus.
 
-34\. Spiritus hi sunt scientiæ, in quibus aperiūtur rerum causæ Admonuit me hujus allegoriæ vox Græca Dæmon, quæ à δαίειν deducitur, quod est Scire, quasi δάήμων. Hoc supposito lege iam notam 28. à § Nimirum.
+34\. Spiritus hi sunt scientiæ, in quibus aperiuntur rerum causæ. Admonuit me hujus allegoriæ vox Græca Dæmon, quæ à δαΐειν deducitur, quod est Scire, quasi δαήμων. Hoc supposito lege jam notam 28. à § Nimirum.
 
 35\. Causa genuina numeri mihi excidit. An ad novem Musas respexi, quia et ipsæ Deæ sunt gentilibus, quod est mihi, spiritus? An has in numerum adscivi. 1. Metaphysica. 2. Physica. 3. Ethica. 4. Astronomia. 5. Astrologia. 6. Optica. 7. Musica. 8. Geometria. 9. Arithmetica?
 
-36\. Certus sum, hîc vel Vraniam ê nnmere Musarum, vel Astronomiam ê scientijs in animo mihi suisse. Quod nisi multis vitæ præsidijs carerent septentrionales, ob frigora; dicerem plus illos ad Astronomiam aptos esse quàm cæteros: quia dierum et noctium discrimina, res ad Astronomiam invitans, apud ipsos sunt majora.
+36\. Certus sum, hîc vel Uraniam è numero Musarum, vel Astronomiam è scientijs in animo mihi suisse. Quod nisi multis vitæ præsidijs carerent septentrionales, ob frigora; dicerem plus illos ad Astronomiam aptos esse quàm cæteros: quia dierum et noctium discrimina, res ad Astronomiam invitans, apud ipsos sunt majora.
 
-37\. Si de Musis ista, vanitatis aliquid in cæteris arguitur. Sin de Scientijs, Physica docet etiam venena, procreat etiam Chymistas, incircumspecte tractata. Metaphysica præposterè affectata inflat, dogmata Catholica turbat subtilitatibus nimijs et importunis. Ethica magnificentiam commendat, non omnibus proficuam. Astrologia supertitionibus patrocinatur, Optica decipit, Musica famulatur amoribus, Geometria dominatui injusto, Arithmetica avaritiæ. Sed melior sensus, quòd cùm omnes seipsis sint mites et innoxiæ, (eoq́ue non [36] spiritus illi apostatæ et nequam, quibus est cum Magis et Sagis commercium, qui suæ crudelitatis et noxarum testimonium habent irrefutabile, à proprio suo patrono Porphyrio.) præcipuum tamen hoc sit in Astronomia, subjecti sui conditionibus.
+37\. Si de Musis ista, vanitatis aliquid in cæteris arguitur. Sin de Scientijs, Physica docet etiam venena, procreat etiam Chymistas, incircumspecte tractata, Metaphysica præposterè affectata inflat, dogmata Catholica turbat subtilitatibus nimijs et importunis, Ethica magnificentiam commendat, non omnibus proficuam, Astrologia supertitionibus patrocinatur, Optica decipit, Musica famulatur amoribus, Geometria dominatui injusto, Arithmetica avaritiæ. Sed melior sensus, quòd cùm omnes seipsis sint mites et innoxiæ, (eoq́ue non spiritus illi apostatæ et nequam, quibus est cum Magis et Sagis commercium, qui suæ crudelitatis et noxarum testimonium habent irrefutabile, à proprio suo patrono Porphyrio.) præcipuum tamen hoc sit in Astronomia, subjecti sui conditionibus.
 
-38\. Quærendo, quæ causa hujus numeri mihi fuerit, non plus profeci, quàm, quod totidem inveni literas, seu characteres in vocibus ASTRONOMI COPERNICANA; quodq́ue totidem sunt formæ conjunctionum inter binos Planetas, quorum sunt numero septem. Et jucundum hoc accedit, totidem etiam esse jactus binarum tesserarum Cubicarum. Est quippè 21 Numerus Trigonicus, basi 6. Allegoria Evocationis est ex Delrio et Magia desumpta; subest autem sensus Grammaticus. Evocatur, id est, enunciatur.
+38\. Quærendo, quæ causa hujus numeri mihi fuerit, non plus profeci, quàm, quod totidem inveni literas, seu characteres in vocibus **Astronomia Copernicana**; quodq́ue totidem sunt formæ conjunctionum inter binos Planetas, quorum sunt numero septem. Et jucundum hoc accedit, totidem etiam esse jactus binarum tesserarum Cubicarum. Est quippè 21 Numerus Trigonicus, basi 6. Allegoria Evocationis est ex Delrio et Magia desumpta; sub est autem sensus Grammaticus. _Evocatur_, id est, _enunciatur_.
 
-39\. Hoc etiam de Finnonibus Septentrionali gente, vicinisque Lappis commemorat Olaus et alij. Ego verò ad doctrinam traduxi de diebus naturalibus,. Zonis et Climatibus, et ad experientiam Holandorum in mari Glaciali, qui omnia sic comparata invenerunt, ut nos Astronomi hic foris jam à multis sæculis docendo scivimus.
+39\. Hoc etiam de Finnonibus Septentrionali gente, vicinisq́ue Lappis commemorat Olaus et alij. Ego verò ad doctrinam traduxi de diebus naturalibus, Zonis et Climatibus, et ad experientiam Hollandorum in mari Glaciali, qui omnia sic comparata invenerunt, ut nos Astronomi hic foris jam à multis sæculis docendo scivimus.
 
-40\. Priora de plagis terrarū erant posita, quæ ab homine adiri possunt, hæc jam de cœlestibus regionibus accipite.
+40\. Priora de plagis terrarum erant posita, quæ ab homine adiri possunt, hæc jam de cœlestibus regionibus accipite.
 
-41\. Populare scomma est, credam potiis, quàm ut in rem præsentem eam. Quæruntque plerique, dudúmne ex cœlo delapsi simus Astronomi? Quibus magis ad captum suum respondit Galilæi nuncius siderius: at validius est Rationis judiciū, quæ testis est omni exceptione major; quod experti sunt Hollandi in illis suis Hibernis, Num. 35.
+41\. Populare scomma est, credam potiùs, quàm ut in rem præsentem eam. Quæruntq́ue plerique, dudúmne ex cœlo delapsi simus Astronomi? Quibus magis ad captum suum respondit Galilæi nuncius siderius: at validius est Rationis judicium, quæ testis est omni exceptione major; quod experti sunt Hollandi in illis suis Hibernis, Num. 39.
 
-42\. Luna Hebræis est Lbana, vel Levana, Selenitida potui indigetare, sed Hebrææ voces, remotiores ab auditu, majori superstitione commendantur in occultis artibus.
+42\. Luna Hebræis est Lbana, vel Levana, Selenitida potui indigetare; sed Hebrææ voces, remotiores ab auditu, majori superstitione commendantur in occultis artibus.
 
 43\. Ecce iterum, ut me necessitas ipsa meorum suppositorum ejecerit in hoc littus, quod Plutarchus legit, Saturni et ipse reditum in taurum commemorans. At series hujus electionis meæ talis fuit. Morem Astrologorum affectavi, ut tàm Solem, quàm Lunam in proprijs constituerem dignitatibus Atqui Sol in Leone domicilio suo fuit. antequam Duracotus domum reditet: id si non fuisset. Sol quidem in eo signo, Luna in Cancro, domo itidem sua, collocari potuit, decrescēs et corniculata: at incommodum hoc accessurum fuit, quòd Solem cogebar sub horizonte ortivo collocare: cùm nox congruentius eligatur [37] ad ista. Propter hæc incommoda delevi signum Cancri, deseruique annum, quo Saturnus in Cancro fuit; annum sc. 1593, quo anno scripta fuit illa disputatio Lunaris, tuâ Besolde manu: quas lituras etiamnum invenio in primo meo exemplari. Vicissim igitur Duracoto meo exactâ hyeme in patria, Martium elegi, Solemq́ue in æquinoctio, bono signo Astronomico, inque aditu Arietis exaltationis suæ: Luna igitur si corniculata debuit videri, in signo sc. Soli vicino: non equidem in alio dignitatem aliquam habuit, quàm in Tauro, exaltationem. ltaque ut videri posset juxta stellas alias, oportuit Solem sub occiduum horizontem referre, principio noctis, quod fuit ex voto, præsertim in signis longarum descensionum, in quibus Luna tali situ valde est conspicua toto corpore intra complexum comu lucidi: ut in opticis, inq́ue dissertatione cum nuncio siderio Galilæi denique in Epitoma dixi. Vt igitur etiam Saturnus Lunæ jungeretur, quod habent Astrologi argumentum occultarum artium; Saturnus quoque in Tauro ponendus fuit. lta emergit tempus, quo maximè fervebant observationes Tychonis, anno 1589. Mart versperi: quando etiam conjunctio in constellationem Pleiadum incidit, quod sidus juxta Lunam collocatum, imaginationes nati multiplicat, ut in Harmonicis concessi. Quin etiam Astronomicæ rationes commendant hunc asterismum in observatione Lunæ corniculatæ. Vide hujus generis Observationem in Opticis meis, Cap. XI. fol. 247. ex anno 1598. 8. April et 27 Iulij.
 
