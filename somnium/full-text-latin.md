@@ -14,6 +14,10 @@
 
 ---
 
+# [Somnium, sivè Astronomia Lunaris.]()
+
+# [Notæ, successivè scriptæ inter annos 1620. 1630.]()
+
 ---
 
 ## Illustrissimo Celsissimoque
