@@ -114,9 +114,9 @@ Secundorum motuum ratio non minus est illis diversa ab ijs, quæ nobis apparent;
 
 Eadem* vera sunt in Venere, Mercurio et Marte; in Jove et Saturno penè insensibilia sunt ista.
 
-Atqui* ne æqualis quidem sibi ipsi est, motus iste diurnus, omnium dierum horis consimilibus; sed lentior aliquando, tàm Solis, quàm fixarum omnium, velocior in parte anni opposita, in consimili horâ diei. Et tarditas ista per dies anni ambulat; ut nunc æstivam occupet, nunc hybernam, quæ alio anno celeritatem senserat*; circuitu uno absoluto per spacium annorum paulò minùs novem.* Itaque jam dies longior fit (naturali tarditate, non ut apud nos in Terris, sectione inæquali circuli diei naturalis) jam vicissim nox.*
+Atqui* ne æqualis quidem sibi ipsi est, motus iste diurnus, omnium dierum horis consimilibus; sed lentior aliquando, tàm Solis, quàm fixarum omnium, velocior in parte anni opposita, in consimili horâ diei. Et tarditas ista per dies anni ambulat; ut nunc æstivam occupet, nunc hybernam, quæ alio anno celeritatem senserat*; circuitu uno absoluto per spacium annorum paulò minùs novem.* Itaque jam dies longior fit (naturali tarditate, non ut apud nos in Terris, sectione inæquali circuli diei naturalis) jam vicissim nox.
 
-Quòd sitarditas Privolvis in noctis medium incidit, cumulatur ejus excessus supra diem; sin in diem, tunc exequantur magis nox et dies, quod in annis 9. fit semel: permutatim apud Subvolvanos.
+Quòd* sitarditas Privolvis in noctis medium incidit, cumulatur ejus excessus supra diem; sin in diem, tunc exequantur magis nox et dies, quod in annis 9. fit semel: permutatim apud Subvolvanos.
 
 Tantum igitur de ijs, quæ quodammodò communiter Hemisphærijs eveniunt.
 
