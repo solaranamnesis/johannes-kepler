@@ -44,7 +44,7 @@ Medicinæ Candidatus.
 
 ---
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/001.png)
 
 # Somnium, sivè Astronomia Lunaris.
 
