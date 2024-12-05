@@ -274,7 +274,7 @@ Ante omnia quadrabat plaga cœli: Nam in Islandia sæpè Luna, cæteris populis 
 
 31\. Redi ad Notam 28.
 
-32\. Judicibus lites, aurigæ somnia currus,
+32\. Judicibus lites, aurigæ somnia currus,  
 Quasq́ue die quæris, nocte potiris opum.
 
 33\. Perquam ingeniosos Islandos affirmavit Tychoni Brahe supradictus Episcopus.
