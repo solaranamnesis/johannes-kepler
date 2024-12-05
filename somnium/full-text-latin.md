@@ -378,6 +378,8 @@ Offert se tamen hîc mihi jucunda memoria Matthiæ Seiffarti bonæ memoriæ Symm
 
 82\. Quia spiritus tenebrarum dicuntur, ut suprâ Num. 55. Sed Allegoria, itineri per umbram, comparat Observationem Eclipsium; Soli, negocia politica; cavernis umbrosis Lunæ, secessum et umbras scholasticas; moræ in cavernis, speculationem continuatam, observationibus Eclipsium insistentem. Erat mihi Pragæ habitatio, in qua nullus angulus aptior observationi diametri Solis, quàm cella cerevisiaria subterranea; ex cujus fundo per foramen sublime, tubum Astronomicum in Opticis descriptum dirigere sum solitus in Solem meridianum diebus solistitialibus. Sed hanc partem Allegoriæ latius diducit numerus 83. seq.
 
+83\.
+
 84\. Quod fit die 7 vel 8 post Eclipsin Lunæ, ut infrà.
 
 85\. Crebiores Solis, quàm Lunæ eveniunt totales defectus.
