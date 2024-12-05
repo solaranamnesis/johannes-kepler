@@ -194,11 +194,11 @@ Hucusque cum pervenissem somniando; ventus ortus cum strepitu pluviæ, somnum mi
 
 Ipse itaque relictis, Dæmone narrante, et auditoribus, Duracoto filio cum matre Fiolxhildi, ut erant obvolutis capitibus, ad me reversus, verè caput pulunari, corpus stragulis obvolutum deprehendi.
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/005.png)
 
 ---
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/002.png)
 
 ## Joannis Keppleri
 
@@ -439,7 +439,7 @@ Respice verò hîc ad Hypothesin libelli; et disce, quæ nobis sunt inter totius
 
 113\. Posito, quòd T R recta per C centrum terræ, rectis angulis insistens connectenti centra Solis et Terræ, C S disseparet arcus orbitæ Lunæ, T R diurnum, verbi causa Privolvarum T N R à Nocturno T P R: æquatio certè maxima Lunæ in quadris T. R. est Gr. 7 1/2, duplum 15°. Arcus igitur, qui Apogæum habet in sui medio, conficitur temporibus 195°, residuus temporibus 165°. Hoc perindè est, ac si noctem nostratem diceres longam horas 13, diem 11, aut vicissim. Etsi ipsis sunt horæ numero alio.
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/003.png)
 
 114\. Tarditas est à constitutione Lunæ in Apogæo; et Privolvarum medij habent noctis medium eo tempore, quo nobis terricolis plenilunium videtur. Si ergò coeunt Luna plena et Apogæum; Privolvis est nox cumulatè longa; sin nova Luna in apogæo fit, Privolvis dies nocti magis æquantur, causis contrarijs se mutuò perimentibus.
 
@@ -505,7 +505,7 @@ Hic numerus ut Logar. Logisticus, ostendit 3′. 58″. Ergò si Discus Terræ e
 
 142\. Cæteris enim locis in Luna simul apparent in articulo Novivolvij, Sol et Volva; ubi si ob claritatem Solis præsentis, corniculum Lunæ, quod ei residuum est ob latitudinem, non cernitur, id fit ex rationibus visus. At ijs, qui inter polos viæ Lunæ, et viæ Solis habitant, Sol quidem in ipso meridie suo sub Horizonte est, Luna paulò supra Horizontem: tanto igitur evidentiùs conspicua.
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/003.png)
 
 143\. Si diei principium id censetur, quod Solem primum sistit in Horizonte: equidem Lunâ in L primâ quadrâ versante, quando angulus SLC connectentium cum centro Lunæ L. Centra Solis S et Terræ C rectus est, etiam tangentium corpus Lunæ SG anguli SGL recti erunt proximè. Jam si radius ex centro Solis, Terræ superficiem contigerit, ut ST: Sol censebitur in Horizonte esse illius loci Terræ, quem signat Contactus T. Eadem igitur de causa etiam loco Lunæ G, qui contingitur à SG, Sol in Horizonte esse censebitur: Et recta ex L Cenro Lunæ per contactum G ducta in terram, signabit illius loci Lunaris verticem. Ergò quibus tunc Volva in vertice, ijs Sol est in Horizonte, id est, habent illi initium tunc diei.
 
@@ -606,7 +606,7 @@ Hisce præmissis, ad cautionem necessariam; nunc jam rationes explicabo singular
 
 190\. Ut suprà Num. 164. 169. 177. Nam et terræ superficies, et Luna illi superstans versus Solem, et umbra Lunæ in superficiem terræ demissa, quam fingimus speculari Lunicolas, moventur in plagam unam et eandem.
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/004.png)
 
 191\. Vide schemata Eclipsium Solarium universaliter consideratarum, in vestibulis Ephemeridum mearum. Nam ea sunt planè comparata ad repræsentandas has Lunicolarum Eclipsationes Volvæ suæ: quippè etiam in illis schematibus, oculus in Luna esse fingitur, necessitate Demonstrationum. Sumatur horæ spacium, Volventur 15 gradus æquatoris terrestris in medio Disci Terræ A. Semissis verò unius Gradus de orbe Lunæ transibit; et paulò quid amplius conficiet umbra Lunæ in Disco Terræ, verbi causa PC. Sed unus semissis in Orbe Lunæ, æquat ferè sexaginta semisses in terra, ex proportione diametrorum globi terræ et orbis Lunæ. Trajicit ergò umbra Lunæ PC in una hora nostrati, 30 amplius gradus æquatoris terrestris in disco terræ, in quo de superficie globi Terræ Soli 15 gradus volvuntur. Et sic umbra CP duplo celerior est, partibus Terræ proximis centro Disci. Aquæ Lunicolis objiciuntur directè; incomparabiliter verò celerior est umbra in R vel S, partibus æquatoris terræ devexis, in FG extremitatibus Disci aspectabilis.
 
@@ -687,6 +687,6 @@ Transilivi documentum tertium, id Disputator infert Thesi 149. Lucentis Lunæ ma
 Hæc sunt documenta Mæstlini de aere Lunari, hæc eorum vis. Post hæc igitur infert Thesin 152, eamq́ue penultimam libelli, in qua aerem lunarem ille comparat aeri nostro Terris circumfuso, comparat claritatem illam limbi, quæ mirabilium apparitionum causa existit, auroræ nostræ; attollitq́ue oculos nostros in altum, ut ego in Lunam, inde agnituros in hac Tellure nostra apparitiones planè consimiles.  
 Denique Notam subjicit, _An_, inquiens, _aër ille, similiter ut noster in nubes concrescat, quæ opacitate speciem induant solidissimorum corporum, eoq́ue, ut apud nos Sole oriente vel occidente, candentes aut ignea appareant: in medio relinquimus. Hoc certè nos docuit experientia, quòd circumfluuis ille splendor diversis temporibus appareat limpidior plus minúsve._ Et addit documentum meæ aptum hypothesi: _Anno 1605 vespera Palmarum in Lunæ deficientis corpores candentis ferri colorem repræsentante, versus Boream nigricans quadam macula, et obscurior reliquo corpore conspecta fuit: dixisses nubila in multam regionem extensa pluviis et tempestuosis imbribus gravida: cujusmodi ab excelsorum montium jugis in humiliora convallium loca despicientibus, non rarò videre contingit._ Veni aliquanto post cum eo in colloquium, cùm ille mihi affirmavit, maculam illam non vulgaris fuisse quantitatis, sed dimidiam præterpropter diametri partem occupasse. Atque hoc ipsum est: cujus recordatio partem hanc ultimam absolvit mei Somnij. Ego quoque in ejus repetitione Notas has finio.
 
-[Figura]()
+[Figura](https://cdn.solaranamnesis.com/Kepler/Somnium/005.png)
 
 ---
