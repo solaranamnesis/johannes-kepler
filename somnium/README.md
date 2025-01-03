@@ -5,4 +5,4 @@
 English - Plain Text  
 English - PDF  
 German - Plain Text  
-German - PDF  
+[German - PDF (external link)](https://archiv.ub.uni-heidelberg.de/volltextserver/15537/)  
