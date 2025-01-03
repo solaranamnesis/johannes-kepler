@@ -9,7 +9,7 @@ Public Domain Works of Johannes Kepler (1571-1630).
 English - Plain Text  
 English - PDF  
 German - Plain Text  
-German - PDF  
+[German - PDF (external link)](https://archiv.ub.uni-heidelberg.de/volltextserver/15537/)  
 
 ## Plutarchi Philosophi Chaeronensis Libellus de Facie, quæ in Orbe Lunæ Apparet.
 
