@@ -4,7 +4,7 @@ Public Domain Works of Johannes Kepler (1571-1630).
 
 ## Somnium.
 
-[Latin - Plain Text](somnium/full-text-latin.md)  
+[Latin - Plain Text](somnium/full-text-latin.md) | [Latin - (GFM) Plain Text](somnium/full-text-latin-gfm.md)  
 [Latin - PDF](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin.pdf) | [Biolinum](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_biolinum.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_kerkis.pdf) | [Cursive](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_frcursive.pdf) | [Atkinson](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_atkinson.pdf) | [Custom](https://cdn.solaranamnesis.com/Kepler/Somnium/kepler_somnium_1634_latin_custommoon.pdf)  
 English - Plain Text  
 English - PDF  
