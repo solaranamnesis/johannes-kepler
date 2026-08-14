@@ -1,9 +1,9 @@
 \documentclass[a4paper, 11pt, oneside, polutonikogreek, german]{article}
+\usepackage{aurical}
 \usepackage[T1]{fontenc}
-\usepackage{ebgaramond}
 % Load encoding definitions (after font package)
 \usepackage[dvipsnames]{xcolor}
-\usepackage{eso-pic,graphicx}
+\usepackage{eso-pic,graphicx,tikz}
 \usepackage[top=110mm, bottom=120mm, outer=85mm, inner=50mm]{geometry}
 \setlength{\columnsep}{90pt}
 \usepackage{textalpha}
@@ -27,9 +27,9 @@
 \usepackage{sectsty}
 \usepackage[titles]{tocloft}
 
-\sectionfont{\large}
-\subsectionfont{\normalsize}
-\subsubsectionfont{\small}
+\sectionfont{\Fontskrivan\bfseries\large}
+\subsectionfont{\Fontskrivan\bfseries\normalsize}
+\subsubsectionfont{\Fontskrivan\bfseries\small}
 
 \usepackage{setspace}
 \onehalfspacing
@@ -44,20 +44,29 @@
 % change color of text, example replace all \color{Goldenrod} with \color{lightgray}
 
 \makeatletter % change only the display of \thepage, but not \thepage itself:
-\patchcmd{\ps@plain}{\thepage}{\bfseries\scriptsize\color{Black}{\thepage}}{}{}
+\patchcmd{\ps@plain}{\thepage}{\Fontskrivan\bfseries\scriptsize\color{Black}{\thepage}}{}{}
 \makeatother
 
 \color{Black}
 
 \begin{document}
-\renewcommand{\thefigure}{{\bfseries\tiny\arabic{figure}}}
-\renewcommand\thefootnote{\tiny{\arabic{footnote}}}
+\renewcommand{\thefigure}{{\Fontskrivan\bfseries\tiny\arabic{figure}}}
+\renewcommand\thefootnote{\Fontskrivan\bfseries\tiny{\arabic{footnote}}}
 \let\oldfootnote\footnote
-    \renewcommand{\footnote}[1]{\oldfootnote{\bfseries\tiny#1}}
+    \renewcommand{\footnote}[1]{\oldfootnote{\Fontskrivan\bfseries\tiny#1}}
     
-\bfseries
+\Fontskrivan\bfseries
 \pagestyle{plain} % after changing a pagestyle command, it's necessary to invoke it explicitly
 \AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{levania1.jpg}}
+\AddToShipoutPictureBG{%
+ \begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=center, inner sep=0pt] at (current page.center) {%
+      \includegraphics[width=\paperwidth,height=\paperheight]{levania1.jpg}%
+    };
+    \fill[white, opacity=0.12]
+      (current page.south west) rectangle (current page.north east);
+  \end{tikzpicture}%
+}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
